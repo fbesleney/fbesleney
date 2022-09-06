@@ -10,8 +10,8 @@
 ### 📫 Reach out to me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/fbesleney" target="blank"><img height="26" width="26" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" alt="@fbesleney"/></a>
-<a href="https://medium.com/@fbesleney" target="blank"><img height="26" width="26" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" align="left" alt="fbesleney"  /></a>
+<a href="https://www.linkedin.com/in/fbesleney" target="_blank"><img height="26" width="26" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" alt="@fbesleney"/></a>
+<a href="https://medium.com/@fbesleney" target="_blank"><img height="26" width="26" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" align="left" alt="fbesleney"  /></a>
 </p>
 
 <br /> <br /> 
