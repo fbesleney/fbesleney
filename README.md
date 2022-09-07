@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/source.gif" align="right" width="430" height="330">
 
-<br /> <br />
+<br />
 
 ### Hi everyone 👋 I'm <font color="skyblue"> Fatih</font> 
 ### <font color="gray"> Blockchain Development</font> Trainee ⚡
