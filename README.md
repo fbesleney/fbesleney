@@ -1,7 +1,6 @@
 <br>
-<!-- <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>  -->
-<iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p>
-<br>
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p> 
+
 
 ### Hi everyone 👋 I'm <font color="skyblue"> Fatih</font> 
 ### <font color="grey"> Blockchain Development</font> Trainee
@@ -9,21 +8,23 @@
     
 ### 📫 Reach out to me:
 
-[<img height="26" width="26" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
-[<img height="26" width="26" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" align="left" />][medium]
+<p align="left">
+<a href="https://www.linkedin.com/in/fbesleney" target="blank"><img height="26" width="26" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" alt="@fbesleney"/></a>
+<a href="https://medium.com/@fbesleney" target="blank"><img height="26" width="26" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" align="left" alt="fbesleney"  /></a>
+</p>
 
-<br> <br>
+<br>
 
 ### Tech I Use <font color="gray"> (a little of all but not quite of any 😄 )</font> 
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="28" height="28">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="28" height="28">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="28" height="28">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="28" height="28">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="28" height="28">
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_solidity_icon_130436.png" width="28" height="28">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="28" height="28">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/382px-SQLite370.svg.png?20140602232932" width="28" height="28">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="28" height="28">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="28" height="28">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="28" height="28">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="28" height="28">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="28" height="28">
+<img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_solidity_icon_130436.png" width="28" height="28">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="28" height="28">
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/382px-SQLite370.svg.png?20140602232932" width="28" height="28">
 
 <br>
     
@@ -34,10 +35,6 @@
 ### Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbesleney&layout=compact&theme=dark" alt="fbesleney">
 
-
-
-[linkedin] : https://www.linkedin.com/in/fbesleney
-[medium] : https://medium.com/@fbesleney 
 
 
 <!--
