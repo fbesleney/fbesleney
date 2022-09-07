@@ -1,4 +1,5 @@
-<img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" align="right" width="430" height="330">
+<!-- <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" align="right" width="430" height="330"> -->
+<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"></a></p>
 
 ### Hi everyone 👋 I'm <font color="skyblue"> Fatih</font> 
 ### <font color="gray"> Blockchain Development</font> Trainee ⚡
@@ -12,7 +13,7 @@
 <a href="https://medium.com/@fbesleney" target="blank"><img height="26" width="26" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" align="left" alt="fbesleney"  /></a>
 </p>
 
-<br /> <br />
+<br /> <br /> <br /> <br /> 
 
 ### Tech I Use <font color="gray"> (a little of all but not quite of any 😄 )</font> 
 
