@@ -5,7 +5,7 @@
 ### Hi everyone 👋 I'm <font color="skyblue"> Fatih</font> 
 ### <font color="gray"> Blockchain Development</font> Trainee ⚡
 <!-- <font color="gray"> I am a new IT student, let's see ⚡ what we can achieve here.. </font>  -->
-<br /> <br /> <br /> <br />  
+<br /> <br /> <br /> <hr />
 
 ### 📫 Reach out to me:
 
