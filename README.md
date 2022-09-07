@@ -1,4 +1,7 @@
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" align="right" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+</p>
+<br>
+<br>
+<iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p>
 
 ### Hi everyone 👋 I'm <font color="skyblue"> Fatih</font> 
 ### <font color="gray"> Blockchain Development</font> Trainee ⚡
