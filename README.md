@@ -5,13 +5,13 @@
 ### Hi everyone 👋 I'm <font color="skyblue"> Fatih</font> 
 ### <font color="gray"> Blockchain Development</font> Trainee ⚡
 <!-- <font color="gray"> I am a new IT student, let's see ⚡ what we can achieve here.. </font>  -->
-<br /> <br /> <br /> <br /> <br /> 
+<br /> <br /> <br /> <br />  
 
 ### 📫 Reach out to me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/fbesleney" target="blank"><img height="26" width="26" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" alt="@fbesleney"/></a>
-<a href="https://medium.com/@fbesleney" target="blank"><img height="26" width="26" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" align="left" alt="fbesleney"  /></a>
+<a href="https://www.linkedin.com/in/fbesleney" target="_blank"><img height="26" width="26" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" alt="@fbesleney"/></a>
+<a href="https://medium.com/@fbesleney" target="_blank"><img height="26" width="26" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" align="left" alt="fbesleney"  /></a>
 </p>
 
 <br /> <br /> 
@@ -32,8 +32,7 @@
 
 ### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=fbesleney&show_icons=true&locale=en&layout=compact&theme=dark" alt="fbesleney">
-
-<br /><br />
+<br />
 
 ### Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbesleney&layout=compact&theme=dark" alt="fbesleney">
