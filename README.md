@@ -3,7 +3,7 @@
 ### Hi everyone 👋 I'm <font color="skyblue"> Fatih</font> 
 ### <font color="gray"> Blockchain Development</font> Trainee ⚡
 <!-- <font color="gray"> I am a new IT student, let's see ⚡ what we can achieve here.. </font>  -->
-<br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
 
 ### 📫 Reach out to me:
 
@@ -12,7 +12,7 @@
 <a href="https://medium.com/@fbesleney" target="blank"><img height="26" width="26" src="https://unpkg.com/simple-icons@v7/icons/medium.svg" align="left" alt="fbesleney"  /></a>
 </p>
 
-<br /> <br /> <br /> <br /> 
+<br /> <br /> <br /> <br /> <br /> 
 
 ### Tech I Use <font color="gray"> (a little of all but not quite of any 😄 )</font> 
 
