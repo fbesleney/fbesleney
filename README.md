@@ -3,9 +3,10 @@
 
 
 ### Hi everyone 👋 I'm <font color="skyblue"> Fatih</font> 
-### <font color="grey"> Blockchain Development</font> Trainee
+### <font color="gray"> Blockchain Development</font> Trainee
 <font color="gray"> I am a new IT student, let's see ⚡ what we can achieve here.. </font> 
-    
+
+   
 ### 📫 Reach out to me:
 
 <p align="left">
@@ -15,9 +16,9 @@
 
 <br>
 
-### Tech I Use <font color="gray"> (a little of all but not quite of any 😄 )</font> 
+### Tech I Use <font color="gray"> #####(a little of all but not quite of any 😄 )</font> 
 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="28" height="28">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="26" height="26">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="28" height="28">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="28" height="28">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="28" height="28">
@@ -27,11 +28,11 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/382px-SQLite370.svg.png?20140602232932" width="28" height="28">
 
 <br>
-    
 
 ### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=fbesleney&show_icons=true&locale=en&layout=compact&theme=dark" alt="fbesleney">
 <br>
+
 ### Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbesleney&layout=compact&theme=dark" alt="fbesleney">
 
