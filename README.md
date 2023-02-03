@@ -26,9 +26,9 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="28" height="28">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="28" height="28">
 <img align="left" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_solidity_icon_130436.png" width="28" height="28">
-<img align="left" src="https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg" width="28" height="28">
+<img align="left" src="https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg" width="33" height="28">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="28" height="28">
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/382px-SQLite370.svg.png?20140602232932" width="28" height="28">
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/382px-SQLite370.svg.png?20140602232932" width="30" height="28">
 
 <br /> <br />
 
